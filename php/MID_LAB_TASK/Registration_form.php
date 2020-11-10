@@ -199,7 +199,7 @@
 						<td>
 							<select name="city" >
 								<?php
-									$city = array("Dhaka","Khulna","Barishal","Rongpur");
+									$city = array("Dhaka","Mymensingh","Pabna","Rongpur");
 									for ($i = 0; $i < 3; $i++) {
 										if($i == 0)
 										{

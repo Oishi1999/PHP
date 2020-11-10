@@ -1,0 +1,13 @@
+<books>
+    <book>
+        <bname>Tin goyenda</bname>
+        <category>Detective</category>
+        <description>abcd</description>
+        <publisher>oishi</publisher>
+        <edition>1</edition>
+        <isbn>12345</isbn>
+        <pages>896</pages>
+        <price>120</price>
+        <image>images/defaultBool.png</image>
+    </books>
+</books>
