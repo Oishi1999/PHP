@@ -1,48 +1,30 @@
+<?php include_once "php_code/login_val.php" ;?>
 <html>
-
-   <head>
-      <title>login form</title>
- 
-   </head>
-    <body>  
+    <head>
+        <title>Login</title>
+    </head>
+    <body>
+        <center><h1>Login</h1></center>
         <center>
-          <h1>login form</h1>
-	    
-	         <form action="login_submitted.php" method="">
-			     <table border="1">
-				    <tr>
-					  <td>username:</td>
-					  <td><input type="text" name="username" placeholder="write your user name"></td>
-					
-					</tr>
-					
-					<tr>
-					  <td>password:</td>
-					  <td> <input name="password" type="password"></td>
-					
-					</tr>
-					<tr>
-					  
-					  <td colspan="3" align="center">
-					  <a href="Registration page.html" target="_blank">Not registered yet?</a> &nbsp;
-					  <input type= "submit" value="login"></td>
-					
-					</tr>
-					 
-					 </table>
-			      <br>
-		        
-		         
-	      
-		     </form>
-		  
-		</center>
-  
-  
+            <form action="" method="POST">
+                <table>
+                    <tr>
+                        <td align="left">User Name:</td>
+                        <td align="left"><input type="text" value="<?php echo $uname;?>" name="uname"></td>
+                        <td align="left"><span style="color:red;"><?php echo $err_uname;?></span></td>
+                    </tr>
+                    <tr>
+                        <td align="left">Password:</td>
+                        <td align="left"><input type="password" value="<?php echo $pass;?>" name="pass"></td>
+                        <td align="left"><span style="color:red;"><?php echo $err_pass;?></span></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" align="center">
+                            <input type="submit" name="login" value="Login">
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </center>
     </body>
-
-
-
-
-
 </html>
