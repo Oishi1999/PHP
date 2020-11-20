@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<users>
+  <user>
+    <username>oishi</username>
+    <password>12345</password>
+    <type>admin</type>
+  </user>
+  <user>
+    <username>tania</username>
+    <password>12345</password>
+    <type>user</type>
+  </user>
+  <user>
+    <username>sabbir</username>
+    <password>189778</password>
+    <type>user</type>
+  </user>
+  <user>
+    <username>oishi</username>
+    <passsword>65326</passsword>
+    <type>user</type>
+  </user>
+  <user>
+    <username>oishi</username>
+    <passsword>65326</passsword>
+    <type>user</type>
+  </user>
+  <user>
+    <username>oishi</username>
+    <passsword>65326</passsword>
+    <type>user</type>
+  </user>
+</users>
