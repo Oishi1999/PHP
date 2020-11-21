@@ -64,7 +64,7 @@ if(isset ($_post["register"])){
 				<fieldset>
 				<legend>Registration form</legend>
 			  
-			      <table border="1">
+			      
 				    <tr>
 					  <td>Name:</td>
 					  <td><input type="text" placeholder="write your name"></td>
