@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<users>
+  <user>
+    <profilepic>dasdsd</profilepic>
+    <fullname>abcd#1ABCD</fullname>
+    <username>dasdsd</username>
+    <email>abcd#1ABCD</email>
+    <phone>dasdsd</phone>
+    <pass>abcd#1ABCD</pass>
+    <nid>dasdsd</nid>
+    <birthday>abcd#1ABCD</birthday>
+    <gender>dasdsd</gender>
+    <address>abcd#1ABCD</address>
+    <type>admin</type>
+  </user>
+  <user>
+    <profilepic>IMG_20181204_140311.jpg</profilepic>
+    <fullname>asdsad</fullname>
+    <username>sadsadasd</username>
+    <email>sdasd@sdasd.sds</email>
+    <phone>12345678912</phone>
+    <pass>abc420ABC#</pass>
+    <nid>Road 7, Block C</nid>
+    <birthday>2020-11-02</birthday>
+    <gender>Male</gender>
+    <address/>
+    <type>lawyer</type>
+  </user>
+</users>
